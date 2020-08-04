@@ -1,13 +1,13 @@
-### Hi there, I'm Brady - aka [KaptianCore][https://portfolio.kaptiancore.wtf] 👋
+### Hi there, I'm Brady - aka [KaptianCore]["https://portfolio.kaptiancore.wtf"] 👋
 
 ## I'm a Developer always looking to learn more!
-- 🔭 I’m currently working on [Zeus Bot][https://botlist.space/bot/611144640741113857] !
+- 🔭 I’m currently working on [Zeus Bot]["https://botlist.space/bot/611144640741113857"] !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-
+'"
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][https://portfolio.kaptiancore.wtf]
+[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>]["https://portfolio.kaptiancore.wtf"]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][https://www.youtube.com/channel/UCbhZsG3POaQnXqNw0ik94RA?view_as=subscriber]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][https://twitter.com/KaptianCore]
 
