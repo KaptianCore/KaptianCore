@@ -14,7 +14,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3><b>Open source projects</b></h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -44,9 +44,9 @@
 </table>
 
 <h3>Where to find me</h3>
+<br>
 <p>
-	<a href="https://github.com/KaptianCore" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> 
-	<a href="https://twitter.com/kaptiancore" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+	<a href="https://github.com/KaptianCore" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>  
 	<a href="https://discord.com/users/274287350052552704" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> 
 </p>
 
