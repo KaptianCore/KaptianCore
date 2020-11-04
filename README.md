@@ -4,6 +4,7 @@
 <p>Welcome to my page! </br> I'm Kaptian Core, a developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197507.svg" width="13"/> <b>Sydney, Australia</b></p>
 <h3>Things I code with</h3>
 <p>
+  <img alt="CPU" src="https://img.shields.io/badge/amd-Ryzen%205%3600-%23ED1C24.svg?style=flat-square&logo=amd&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -15,6 +16,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+---
+
 <h3><b>Open source projects</b></h3>
 <table>
   <thead align="center">
@@ -44,12 +48,25 @@
   </tbody>
 </table>
 
+---
+
 <h3>Where to find me</h3>
 <br>
 <p>
 	<a href="https://github.com/KaptianCore" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>  
-	<a href="https://discord.com/users/274287350052552704" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> 
+	<a href="https://discord.com/users/274287350052552704" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white"/></a> 
 </p>
+
+---
+
+<h3><b>PC Specs</b></h3>
+<p>
+  <img alt="CPU" src="https://img.shields.io/badge/amd-Ryzen%205%3600-%23ED1C24.svg?style=flat-square&logo=amd&logoColor=white"/>
+  <img alt="GPU" src="https://img.shields.io/badge/nvidia-RTX 2070 Super-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img alt="OS" src="https://img.shields.io/badge/windows-Latest-%230078D6.svg?style=flat-square&logo=windows&logoColor=white"/>
+
+---
 
 ![Kaptian Core's Github Stats](https://github-readme-stats.vercel.app/api?username=KaptianCore)
 
