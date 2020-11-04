@@ -52,7 +52,7 @@
 
 <h3>Where to find me</h3>
 <p>
-	<a href="https://github.com/KaptianCore" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-thebadge&logo=Github&logoColor=white" /></a> 
+	<a href="https://github.com/KaptianCore" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> 
 	<a href="https://twitter.com/kaptiancore" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
 	<a href="https://discord.com/users/274287350052552704" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> 
 </p>
