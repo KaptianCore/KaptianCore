@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Kaptian Core, a developer from <img src="https://www.flaticon.com/svg/static/icons/svg/197/197507.svg" width="13"/> <b>Sydney, Australia</b></p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
