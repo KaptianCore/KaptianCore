@@ -20,7 +20,7 @@
 
 <h3><b>Open source projects</b></h3>
 <table>
-  <thead align="center">
+  <theadalign="center>
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
