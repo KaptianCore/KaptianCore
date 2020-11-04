@@ -50,3 +50,5 @@
 	<a href="https://discord.com/users/274287350052552704" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a> 
 </p>
 
+[![Kaptian Core's Github Stats](https://github-readme-stats.vercel.app/api?username=KaptianCore)]
+
