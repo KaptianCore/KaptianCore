@@ -69,3 +69,4 @@
 
 ![Kaptian Core's Github Stats](https://github-readme-stats.vercel.app/api?username=KaptianCore)
 
+[Stats]: https://profile-summary-for-github.com/user/kaptiancore
