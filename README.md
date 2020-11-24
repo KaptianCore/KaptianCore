@@ -68,7 +68,7 @@
 
 <h3><b>PC Specs</b></h3>
 <p>
-  <img alt="CPU" src="https://img.shields.io/badge/amd-Ryzen%5%3600-%23ED1C24.svg?style=flat-square&logo=amd&logoColor=white"/>
+  <img alt="CPU" src="https://img.shields.io/badge/amd-Ryzen%205%3600-%23ED1C24.svg?style=flat-square&logo=amd&logoColor=white"/>
   <img alt="GPU" src="https://img.shields.io/badge/nvidia-RTX 2070 Super-%2376B900.svg?style=flat-square&logo=nvidia&logoColor=white"/>
   <img alt="OS" src="https://img.shields.io/badge/windows-Latest-%230078D6.svg?style=flat-square&logo=windows&logoColor=white"/>
 
