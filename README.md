@@ -44,6 +44,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/johnnyhuy/ggsmark?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/johnnyhuy/ggsmark?style=flat-square&labelColor=343b41"/></td>
     </tr>
+																          <tr>
+	    <td><a href="https://github.com/KaptianCore/ggs.js"><b>GGS.JS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/ggs.js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/ggs.js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/ggs.js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/ggs.js?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
