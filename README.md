@@ -80,11 +80,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/CGDrones?style=flat-square&labelColor=343b41"/></td>
     </tr>
       <tr>
-	    <td><a href="https://github.com/KaptianCore/CG-Sub-Factions-Boards"><b>CG Sub Factions Board</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/CG-Sub-Factions-Boards?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/CG-Sub-Factions-Boards?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/CG-Sub-Factions-Boards?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/CG-Sub-Factions-Boards?style=flat-square&labelColor=343b41"/></td>
+	    <td><a href="https://github.com/KaptianCore/CG-Sub-Factions-Board"><b>CG Sub Factions Board</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/CG-Sub-Factions-Board?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/CG-Sub-Factions-Board?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/CG-Sub-Factions-Board?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/CG-Sub-Factions-Board?style=flat-square&labelColor=343b41"/></td>
     </tr>
       <tr>
 	    <td><a href="https://github.com/EclipseCantCode/Fortnut"><b>Fortnut</b></a></td>
