@@ -44,12 +44,40 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/johnnyhuy/ggsmark?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/johnnyhuy/ggsmark?style=flat-square&labelColor=343b41"/></td>
     </tr>
-																          <tr>
+		<tr>
 	    <td><a href="https://github.com/KaptianCore/ggs.js"><b>GGS.JS</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/ggs.js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/ggs.js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/ggs.js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/ggs.js?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    	<tr>
+	    <td><a href="https://github.com/KaptianCore/capturetheflag"><b>Capture The Flag</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/capturetheflag?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/capturetheflag?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/capturetheflag?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/capturetheflag?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+        	<tr>
+	    <td><a href="https://github.com/KaptianCore/textspam"><b>textspam</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/textspam?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/textspam?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/textspam?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/textspam?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+        	<tr>
+	    <td><a href="https://github.com/KaptianCore/SchoolCountdown"><b>School Countdown</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/SchoolCountdown?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/SchoolCountdown?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/SchoolCountdown?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/SchoolCountdown?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+        	<tr>
+	    <td><a href="https://github.com/KaptianCore/CGDrones"><b>GGS.JS</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/KaptianCore/CGDrones?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/KaptianCore/CGDrones?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/KaptianCore/CGDrones?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/KaptianCore/CGDrones?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
